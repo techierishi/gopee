@@ -1,3 +1,17 @@
+run
+---
+
+```bash
+go mod init
+```
+
+```bash
+go build
+```
+
+```bash
+go run ./gopee
+```
 gopee
 -----
 
